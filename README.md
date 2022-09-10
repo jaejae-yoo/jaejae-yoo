@@ -15,11 +15,3 @@ Here are some ideas to get you started:
 
 
 ### 안녕하세요 👋
-일상생활에 **긍정적인 변화**를 주고 싶은 개발자 유재서입니다.
-
-<a href="https://luxuriant-crib-2db.notion.site/da171fe4da354ccf8bb75af619de3a97"> Resume </a>
-
-<br>
-
-### Contact
-Email: wotj102@gmail.com
